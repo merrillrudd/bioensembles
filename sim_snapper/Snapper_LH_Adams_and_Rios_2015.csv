@@ -1,0 +1,15 @@
+Species,Location,Loo,K,t0,M,tmax,Lm,tm,Source
+O. chrysurus,Florida S,410,0.27,-2.03,,17,,,Allman et al. 2005
+O. chrysurus,NA,455,0.21,-0.71,0.21,14,,,Ault et al. 1998
+O. chrysurus,Puerto Rico,484,0.17,-1.87,0.21,14,199,,Ault et al. 2008
+O. chrysurus,Florida E,410,0.21,-2.37,,,,,Garcia 2000
+O. chrysurus,Florida S,524,0.14,-1.84,,13,,,Garcia et al. 2003
+O. chrysurus,Florida S,484,0.17,-1.87,,13,,,Garcia et al. 2003
+O. chrysurus,Florida S,608,0.17,-1.88,,13,,,Garcia et al. 2003
+O. chrysurus,Florida S,475,0.23,-0.66,,14,,,Johnson 1983
+O. chrysurus,US Caribbean,503,0.14,-0.96,,17,,,Manooch and Drennon 1987
+O. chrysurus,Cuba SW,479,-0.16,-0.74,,,,,Piedra 1969
+O. chrysurus,NA,618,0.13,-3.13,,,232,1.7,O'Hop et al. 2012
+O. chrysurus,Florida S,447,0.53,-0.63,,,209,1.7,Muller et al. 2003
+O. chrysurus,Puerto Rico,545,0.1,-1.83,0.32,,250,,SEDAR 2005
+O. chrysurus,Campeche Bank,,,,,,213,,Trejo-Martinez et al. 2010
